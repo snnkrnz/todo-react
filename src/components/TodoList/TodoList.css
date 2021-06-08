@@ -1,0 +1,7 @@
+.list-group-item {
+  color: black;
+  font-weight: bold;
+  border-bottom: 2px solid black;
+  margin: 2px 15px 0 15px;
+  background-color: blanchedalmond;
+}
